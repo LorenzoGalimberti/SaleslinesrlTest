@@ -71,5 +71,15 @@ Per installare il backend:
 5. Creare un database MySQL con il nome "salesline_test_db" utilizzando il pannello di controllo di XAMPP
 6. Configurare il file "server.js" inserendo le proprie credenziali per la connessione al database
 7- Eseguire il comando npm start per avviare il server
-# Autore
-Salesline Test è stato creato da Galimberti Lorenzo
+# note finali
+
+
+Vorrei scusarmi per il fatto che il progetto sia stato realizzato interamente in JavaScript e non in TypeScript. Inizialmente avevo pianificato di utilizzare TypeScript per tutta l'applicazione, ma durante lo sviluppo ho riscontrato dei problemi con il form di registrazione ed autenticazione, che mi hanno costretto a tornare al JavaScript.
+
+Tuttavia, ho creato una cartella "typescript" all'interno della repository, dove è possibile trovare i file TypeScript che ho sviluppato in precedenza. 
+
+Mi scuso ancora per qualsiasi inconveniente causato dalla mancanza di TypeScript nell'applicazione principale e spero che i file TypeScript nella cartella "typescript" possano essere comunque di valore per la vostra comprensione del progetto.
+
+Grazie per la comprensione,
+
+Galimberti Lorenzo
