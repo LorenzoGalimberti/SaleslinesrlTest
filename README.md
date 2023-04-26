@@ -22,7 +22,16 @@ Il progetto Salesline Test utilizza le seguenti tecnologie:
 Il progetto è diviso in due parti: il frontend e il backend. Entrambe le parti utilizzano Node.js, quindi è necessario averlo installato sulla propria macchina.
 
 # Frontend
-Per installare il frontend:
+```
+cd frontend
+```
+```
+npm install axios@1.3.6 bootstrap@2.0.0 react@18.2.0 react-dom@18.2.0 react-router-dom@6.10.0 web-vitals@2.1.4 --save
+npm install typescript@5.0.4 @babel/preset-typescript@7.21.4 @types/react@18.2.0 
+```
+Di seguito l'elenco dei pacchetti utilizzati per il progetto frontend:
+
+
 
 1. Clonare il repository nella propria cartella locale
 2. Aprire una finestra del terminale nella cartella "frontend"
