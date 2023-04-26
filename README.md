@@ -30,22 +30,29 @@ Per installare il frontend:
 4. Eseguire il comando npm start per avviare l'applicazione su http://localhost:3000
 # Backend
 Per poter eseguire il progetto sul proprio computer, è necessario installare i seguenti pacchetti nella directory 'backend':
+```
+cd backend
+```
 
 - Cors v2.8.5
 - Express v4.18.2
 - MySql v2.18.1
 - Nodemon v2.0.22
 Per installare i pacchetti, è possibile utilizzare il comando npm install seguito dal nome del pacchetto e dalla versione specifica, come mostrato di seguito:
-'''
+
+```
 npm install cors@2.8.5
 npm install express@4.18.2
 npm install mysql@2.18.1
 npm install nodemon@2.0.22
-'''
+```
+
 In alternativa, è possibile installare tutte le dipendenze contemporaneamente utilizzando il comando:
 
-'''
+```
 npm install
+```
+
 Per installare il backend:
 
 1. Installare XAMPP seguendo le istruzioni per il proprio sistema operativo dal sito ufficiale: https://www.apachefriends.org/index.html
